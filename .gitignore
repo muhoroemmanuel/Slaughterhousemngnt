@@ -1,0 +1,15 @@
+﻿node_modules/
+npm-debug.log*
+.env.local
+.env*.local
+.next/
+out/
+dist/
+.vscode/
+.idea/
+*.swp
+*.swd
+.DS_Store
+Thumbs.db
+.cache/
+.qodo/workflows/steps.txt
